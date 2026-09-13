@@ -1,4 +1,4 @@
-<h1>Actualización Kali Linux</h1>
+9<h1>Actualización Kali Linux</h1>
 
 <p>
   <strong>
@@ -85,7 +85,7 @@
   </p>
 
   <p align="center">
-Imagende referencia: <br/>
+Imagen de referencia: <br/>
 <img src="https://i.imgur.com/sbhgpBk.png"/>
 <br />
 </section>
