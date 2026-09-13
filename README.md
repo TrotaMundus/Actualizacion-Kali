@@ -87,7 +87,6 @@
   <p align="center">
 Imagende referencia: <br/>
 <img src="https://i.imgur.com/sbhgpBk.png"/>
-<img src=""/>
 <br />
 </section>
 
